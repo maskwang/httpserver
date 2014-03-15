@@ -1,0 +1,26 @@
+{
+  "name": "httpserver",
+  "version": "0.0.0",
+  "description": "http server",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "node example/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maskwang/httpserver"
+  },
+  "keywords": [
+    "Nodejs",
+    "HttpServer"
+  ],
+  "author": "maskwang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maskwang/httpserver/issues"
+  },
+  "homepage": "https://github.com/maskwang/httpserver"
+}
